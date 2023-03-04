@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "gssampler"
+  site-url: "https://jbwhit.github.io/gssampler"
+  description: "Sample from Google Sheets."
+  repo-branch: main
+  repo-url: "https://github.com/jbwhit/gssampler"
